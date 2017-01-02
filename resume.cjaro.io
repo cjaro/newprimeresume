@@ -18,10 +18,12 @@
 		</div>
 
 		<div class = "Education">
-				<h1>Education</h1>
-      <h3>Prime Digital Academy</h3>
-      <h4>Full Stack Engineering</h3>
-      <h4>2017</h4>
+			<h1>Education</h1>
+    				  <h3>Prime Digital Academy</h3>
+ 				     <h4>Full Stack Engineering</h3>
+    					  <h4>2017</h4>
+     						 </div>
+						 
 			<div class = "csb">
 				<h3>Bachelor of Arts - English Literature & Language Major, Biology Minor</h3>
 				<h4>College of Saint Benedict, Saint Joseph, Minnesota</h4>
