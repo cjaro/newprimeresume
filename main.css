@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: #0000FF;
+}
+
+h2 {
+  color:#FF00FF;
+}
+
+h3 {
+    color:#00FF00;
+}
+
+h4 {
+    color:#FF0000;
+}
+
+  .img {
+    width: 150px;
+  }
